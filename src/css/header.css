@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+   
+
+
+}
+
+header .img-portfolio {
+    height: 220px;
+    width: 220px;
+    border-radius: 100%;
+}
