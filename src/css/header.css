@@ -2,7 +2,8 @@ header{
     display: flex;
     gap: 20px;
     align-items: center;
-   
+   justify-content: center;
+   color: rgb(64, 189, 44);
 
 
 }
@@ -11,4 +12,12 @@ header .img-portfolio {
     height: 220px;
     width: 220px;
     border-radius: 100%;
+    border-color: rgb(64, 189, 44);
+    border-width: 800px;
+    border:3px solid rgb(64, 189, 44)
+   
+}
+h3 {
+    display: flex;
+    justify-content: center;
 }

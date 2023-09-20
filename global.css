@@ -1,5 +1,64 @@
 body{
+     justify-content: center;
+     background-color: black;
+
+}
+.list {
     display: flex;
     justify-content: center;
+    color: rgb(47, 215, 21);
+}
+.quadrado{
+        padding-top: 10px;
+        height: 160px;             
+        border-style: dashed;
+        border-color:  rgb(64, 189, 44);
+        border-width: 2px ;
 
+    }
+.paragrafo{
+    
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 100;
+    font-weight: 900;
+    color: rgb(47, 215, 21);
+}
+.sobre{
+    color: rgb(47, 215, 21);
+    display: flex;
+    justify-self: center;
+    flex-direction: row;
+}
+.paragrafo2{
+    color: rgb(47, 215, 21);
+    justify-content: center;
+    display: flex;
+}
+h4{
+    color: rgb(47, 215, 21);
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 18px;
+}
+.paragrafo3 {
+    color: rgb(47, 215, 21);
+    justify-content: center;
+    display: flex;
+    font-size: 13px;
+    margin-top: -20px;
+}
+
+h5{
+    color: rgb(47, 215, 21);
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 18px;
+}
+.agaquatro {    
+    margin-top: 3px;
+    
 }
